@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  },
+  "name": "belezadanatureza-backend",
+  "description": "Backend do projeto Beleza da Natureza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonanthomaz/BelezaDaNatureza-Backend.git"
+  },
+  "author": "Leonan Thomaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonanthomaz/BelezaDaNatureza-Backend/issues"
+  },
+  "homepage": "https://github.com/leonanthomaz/BelezaDaNatureza-Backend#readme"
+}
